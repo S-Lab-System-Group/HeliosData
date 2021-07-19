@@ -1,4 +1,5 @@
 # Overview
+[![DOI](https://zenodo.org/badge/387395302.svg)](https://zenodo.org/badge/latestdoi/387395302)
 
 This repository contains public releases of [SenseTime](https://www.sensetime.com) Helios traces for the benefit of the deep learning system research community. 
 <!-- Note that [Git LFS](https://git-lfs.github.com/) is required for downloading Helios traces. -->
