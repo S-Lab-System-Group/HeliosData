@@ -8,7 +8,7 @@ If you do use the Helios traces in your research, please make sure to cite our S
 
 We encourage anyone to use the traces for academic purposes, and if you had any questions, feel free to send an email to us, or file an issue on Github. 
 
-> **Note that only the `Venus` trace is public available now. Other traces are being censored. We will release them as soon as possible.**
+<!-- > **Note that only the `Venus` trace is public available now. Other traces are being censored. We will release them as soon as possible.** -->
 
 ## Helios Description
 
